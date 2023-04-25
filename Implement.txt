@@ -1,0 +1,12 @@
+Rules
+*************************
+- Piece Movement (Blocked by other pieces, can't capture own, can't move out of board, special captures like pawns diagonal)
+- Capturing
+- Checkmate
+- Stalemate
+- Check (block or move piece)
+- Can't castle through check
+- En passante
+- Repetition
+- Promotion
+- Time?
